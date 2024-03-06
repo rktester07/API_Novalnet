@@ -1,0 +1,16 @@
+
+Clicking on Sign Up should take the user to a registration page.
+
+Clicking on ‘Log out’ should take the user back to Home Page.
+
+If the user clicks on the “Remember me” option, he should be redirected to the appropriate page on the next login.
+
+The user should be redirected to an appropriate page for the Forgot password option.
+
+I forgot the password link should be present on the form.
+
+The reset button should clear data from all the text boxes in the form.
+
+The user should be redirected to the Login page if the URL is bypassed.
+
+All the test cases should be separately run for logged-in and not logged-in users.
